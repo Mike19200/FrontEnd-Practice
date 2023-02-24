@@ -16,9 +16,9 @@ hr{
     height: 0px;
     width: 10%;
 }
-table{
-    border-style: none;
-}
+
 .tabla_exp {
+    border-style: none;
+    border-color: #E9F8F9;
     background-color: #537FE7;
     }
