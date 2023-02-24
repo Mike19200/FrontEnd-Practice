@@ -1,15 +1,19 @@
 body {
-    background-color: #E9F8F9;
-    
+    background-color: #181823;
+    font-family:Arial, Helvetica, sans-serif;
 }
 h1{
-    color: #537FE7;
+    color:#E9F8F9;
 }
 h2{
-    color: #181823;
+    color:#C0EEF2;
+}
+h3{
+    color: #537FE7;
+    font-size: 30px;
 }
 hr{
-    background-color:#E9F8F9;
+    background-color:#181823;
     border-style: dotted none none;
     border-width: 5px;
     border-color: #537FE7;
@@ -17,8 +21,21 @@ hr{
     width: 10%;
 }
 
+.tl_skil{
+    font-size: larger;
+}
+
 .tabla_exp {
     border-style: none;
     border-color: #E9F8F9;
     background-color: #537FE7;
-    }
+}
+
+.table_skills {
+    color:#E9F8F9;
+}
+
+.hobies_l {
+    color:#E9F8F9;
+    font-family:Arial, Helvetica, sans-serif;
+}
